@@ -1,6 +1,3 @@
-﻿using NUnit.Framework;
-using OpenQA.Selenium;
-using System.Threading;
 //*************************************************************************************************//
 // Projeto: AVALIAÇÃO BLUE DIGITAL
 //*************************************************************************************************//
@@ -10,6 +7,10 @@ using System.Threading;
 // Descrição: Métodos auxiliares de elementos.
 //*************************************************************************************************//
 //*************************************************************************************************//
+
+using NUnit.Framework;
+using OpenQA.Selenium;
+using System.Threading;
 
 namespace orangeHrm.lib_auxiliar
 {
